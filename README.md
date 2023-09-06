@@ -1,4 +1,4 @@
 # InterfitDatabaseER
 ER-діаграма бази даних тренажерної мережі Interfit використовується для спільної роботи з програмістами, які створють програмне забезпечення для сканування карток та додатків на терміналі. Ця діаграма допомагає взаєморозумінню з заказчиком та забезпечує можливість розуміти архітектуру бд без знань бд.
 
-![ER Diagram](https://github.com/Optimvfx/InterfitDatabaseER/raw/main/InterfitDatabase.png)
+![ER Diagram](https://github.com/Optimvfx/InterfitDatabaseER/raw/main/InterfitDatabase.swg)
